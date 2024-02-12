@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="./style/css/style.css">
+        
+    </head> 
+    <body>
+        <div class="panel">
+            <div >
+                <h1 class = "header_text">Will You Be My Valentine?</h1>
+            </div>
+            <div class="gif_container">
+                <img src="./style/images/peach shy.gif" alt="Cute animated illustration">
+            </div>
+            <div class = "buttons">
+                <button class="btn" id = "yesButton" onclick="nextPage()">Yes</button>
+                <button class="btn" id="noButton" onmouseover="moveButton()">No</button>
+                <script src="heart.js"></script>
+
+                <script>
+                    function nextPage() {
+                        const pages = [
+                            "yes.html",
+                            "vale.html",
+                            "hearts.html",
+                            "love.html",
+                            "light.html",
+                            "key.html",
+                            "music.html",
+                            "video.html"
+                        ];
+                        const randomIndex = Math.floor(Math.random() * pages.length);
+                        window.location.href = pages[randomIndex];
+                    }
+                    
+                    function moveButton() {
+                        var x = Math.random() * (window.innerWidth - document.getElementById('noButton').offsetWidth) - 85;
+                        var y = Math.random() * (window.innerHeight - document.getElementById('noButton').offsetHeight) - 48;
+                        document.getElementById('noButton').style.left = `${x}px`;
+                        document.getElementById('noButton').style.top = `${y}px`;
+                    }
+                </script>
+            </div>
+        </div>
+       
+    </body> 
+</html>
