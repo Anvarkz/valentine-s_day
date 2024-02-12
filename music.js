@@ -65,9 +65,9 @@ $(function () {
       "https://track.pinkamuz.pro/download/b334353136b230b08837313533323130b5340700/d7fae6dd4299b158e9bb689a891c07af/Andrea%20Bocelli%20-%20Bésame%20Mucho%20%28Give%20Me%20Many%20Kisses%29.mp3",
       "https://track.pinkamuz.pro/download/33333030353533328d370192c69686060600/b664523543d876760a80428d8366c963/Arctic%20Monkeys%20%5Bdrivemusic.me%5D%20-%20I%20Wanna%20Be%20Yours.mp3",
       "https://track.pinkamuz.pro/download/333631333233358c3735070243531300/9e5ab44f5a6537eaf22281a58852eadd/Arctic%20Monkeys%20-%20505%20%28комната%20505%29.mp3",
-      "https://eu.hitmotop.com/get/music/20190517/Batyrkhan_SHukenov_-_Vremya_lyubvi_Ostorozhno_milaya_devushka_2010_64265300.mp3",
-      "https://eu.hitmotop.com/get/music/20210218/Batyrkhan_SHukenov_-_Stan_moejj_molitvojj_72706783.mp3",
-      "https://eu.hitmotop.com/get/music/20191023/Batyrkhan_SHukenov_Vsjo_projjdjot_-_Ty_skazhi_67049989.mp3"
+      "https://track.pinkamuz.pro/download/d3b53436b0343537338837b6343000d2864600/5e08d4d3492fd2473b5074a36400c32d/Батырхан%20Шукенов%20-%20-%20Время%20Любви.mp3",
+      "https://track.pinkamuz.pro/download/33b4303636b5b030b08837313130323233b3340200/e97a70a505c9260a9bba216f6f6ebf2d/Батырхан%20Шукенов%20-%20Стань%20моей%20молитвой%20Live.mp3",
+      "https://track.pinkamuz.pro/download/d3b5343136313632b0883731353332b63432350300/420734336895638688fcb0f2c8287bf6/Батырхан%20Шукенов%20-%20Ты%20скажи%20%28альбом%20%22Твои%20шаги%22%29%202006%20год.mp3"
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
