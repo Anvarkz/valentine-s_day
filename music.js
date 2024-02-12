@@ -55,7 +55,7 @@ $(function () {
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6", "_7", "_8", "_9", "_10"],
     trackUrl = [
-      "https://eu.hitmotop.com/get/music/20170919/Ricchi_E_Poveri_-_Sar_perch_ti_amo_48689644.mp3",
+      "https://storage4.lightaudio.ru/dm/3992be0f/5b4abbf3/Ricchi%20e%20Poveri%20Official%20—%20Sarà%20perché%20ti%20amo.mp3",
       "https://eu.hitmotop.com/get/music/20170902/Joe_Dassin_-_Et_si_tu_nexistais_pas_48004460.mp3",
       "https://eu.hitmotop.com/get/music/20110208/Umberto_Tozzi_feat_Monica_Bellucci_-_Ti_amo_391958.mp3",
       "https://eu.hitmotop.com/get/music/20170903/Andrea_Bocelli_-_Cant_Help_Falling_In_Love_48076869.mp3",
