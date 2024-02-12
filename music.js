@@ -55,7 +55,7 @@ $(function () {
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6", "_7", "_8", "_9", "_10"],
     trackUrl = [
-      "https://storage4.lightaudio.ru/dm/399226fa/2ea34339/Ricchi%20E%20Poveri%20—%20Sarà%20perché%20ti%20amo.mp3",
+      "https://track.pinkamuz.pro/download/3334b33034b0303635893731353332b63430320200/1a49762c1d25751888e6cd8dc2417d3a/Ricchi%20e%20Poveri%20-%20Sarà%20Perché%20Ti%20Amo%28Ost%20Статус%3AСвободен%29.mp3",
       "https://eu.hitmotop.com/get/music/20170902/Joe_Dassin_-_Et_si_tu_nexistais_pas_48004460.mp3",
       "https://eu.hitmotop.com/get/music/20110208/Umberto_Tozzi_feat_Monica_Bellucci_-_Ti_amo_391958.mp3",
       "https://eu.hitmotop.com/get/music/20170903/Andrea_Bocelli_-_Cant_Help_Falling_In_Love_48076869.mp3",
