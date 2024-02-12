@@ -37,6 +37,7 @@ $(function () {
       "Vivo per lei",
       "Bésame Mucho",
       "I Wanna Be Yours",
+      "505",
       "Время любви",
       "Стань моей молитвой",
       "Ты скажи"
